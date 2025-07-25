@@ -1,0 +1,2 @@
+This is student.txt.
+You are inside a file.
