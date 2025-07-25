@@ -1,0 +1,2 @@
+This is a department file .
+You are inside dept.txt
